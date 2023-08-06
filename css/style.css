@@ -110,4 +110,5 @@ body {
 a.pointer:hover {
     color: white;
         background-color: rgba(64, 75, 191, 1);
+        text-transform: uppercase;
 }

@@ -117,8 +117,14 @@ ul {
 }
 
 .team-style {
-    background-color: lightgray;
-
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    color: var(--navy-blue);
+    
 }
 
 .character-style {

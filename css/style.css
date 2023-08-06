@@ -107,6 +107,7 @@ ul {
     font-size: 36px;
     line-height: 1.1;
     color: var(--navy-blue);
+    letter-spacing: 0.72px
 }
 
 .place-footer {

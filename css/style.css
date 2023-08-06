@@ -4,6 +4,10 @@ body {
     text-decoration: none;
 }
 
+ul {
+    list-style-type: none;
+}
+
 :root {
     --navy-blue: #2e2f42;
     --iris: #4d5ae5;

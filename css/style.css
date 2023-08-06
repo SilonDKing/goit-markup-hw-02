@@ -116,6 +116,29 @@ ul {
     color: var(--cloud);
 }
 
+.team-style {
+    background-color: lightgray;
+
+}
+
+.character-style {
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+
+.worker-design {
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
 a.pointer:hover {
     color: white;
     background-color: rgba(64, 75, 191, 1);

@@ -20,6 +20,7 @@ body {
     color: var(--navy-blue);
     text-decoration: none;
     font-weight: 500;
+    
 }
 
 .navigation-contacts .navigation-contact {
@@ -104,4 +105,9 @@ body {
 
 .visually-hidden {
     
+}
+
+a.pointer:hover {
+    color: white;
+        background-color: rgba(64, 75, 191, 1);
 }

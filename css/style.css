@@ -78,6 +78,8 @@ body {
     font-size: 56px;
     line-height: 1.1;
     color: white;
+    font-style: normal;
+    letter-spacing: 1.12px;
 }
 
 .index-background {

@@ -72,7 +72,7 @@ ul {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.64px;
-    background: var(--ocean, #404BBF);
+    background-color: var(--ocean, #404BBF);
 }
 
 .first-pointer:hover {

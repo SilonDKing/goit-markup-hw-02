@@ -51,7 +51,6 @@ ul {
 
 .pointer {
     cursor: pointer;
-    color: rgba(77, 90, 229, 1);
     background-color: rgba(231, 233, 252, 1);
     color: var(--iris, #4D5AE5);
     text-align: center;

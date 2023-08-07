@@ -53,6 +53,14 @@ ul {
     cursor: pointer;
     color: rgba(77, 90, 229, 1);
     background-color: rgba(231, 233, 252, 1);
+    color: var(--iris, #4D5AE5);
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.64px;
 }
 
 .pointer:hover {

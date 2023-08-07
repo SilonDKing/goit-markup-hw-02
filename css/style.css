@@ -71,6 +71,11 @@ ul {
     letter-spacing: 0.64px;
 }
 
+.pointer-index:hover {
+    color: white;
+    background: var(--ocean, #404BBF);
+}
+
 .color-iris {
     color: rgba(77, 90, 229, 1);
 }

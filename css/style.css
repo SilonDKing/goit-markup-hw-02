@@ -18,13 +18,17 @@ ul {
 
 }
 
-.navigation-items .navigation-item {
+.navigation-items {
     font-size: 16px;
     line-height: 1.5;
     color: var(--navy-blue);
     text-decoration: none;
     font-weight: 500;
     
+}
+
+.navigation-items:hover {
+    color: var(--ocean, #404BBF);
 }
 
 .navigation-contacts .navigation-contact {
@@ -42,6 +46,7 @@ ul {
     font-size: 18px;
     line-height: 21px;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 .pointer {
@@ -59,8 +64,8 @@ ul {
     cursor: pointer;
     color: white;
     background-color: rgba(77, 90, 229, 1);
-    font-family: "Roboto"
-    font-size 16px;
+    font-family: "Roboto";
+    font-size: 16px;
     font-style: normal;
     font-weight: 500;line-height: 24px;
     letter-spacing: 0.64px;

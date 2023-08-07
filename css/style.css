@@ -142,6 +142,7 @@ ul {
     line-height: 40px;
     letter-spacing: 0.72px;
     color: var(--navy-blue);
+    background-color: var(--cloud, #F4F4FD);
 }
 
 .color-slates {

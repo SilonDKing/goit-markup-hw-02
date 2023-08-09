@@ -62,24 +62,6 @@ ul {
     letter-spacing: 0.64px;
 }
 
-.first-pointer {
-    color: var(--white, #FFF);
-    text-align: center;
-    font-family: "Roboto";
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.64px;
-    background-color: #404BBF;
-}
-
-.first-pointer:hover {
-    color: white;
-    background-color: #4D5AE5
-}
-
-
 .pointer:hover {
     color: white;
     background-color: rgba(64, 75, 191, 1);
